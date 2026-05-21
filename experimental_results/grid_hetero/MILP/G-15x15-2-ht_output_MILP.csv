@@ -1,0 +1,2 @@
+Problem Type,Solution Method,Number of Vehicles,Computational Time(Sec),Status,Lower Bound,MIP Gap
+3,1,2,3600,GRB_TIME_LIMIT,705.735,1e+100

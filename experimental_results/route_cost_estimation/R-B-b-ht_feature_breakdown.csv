@@ -1,0 +1,4 @@
+Instance,VehicleIndex,VehicleID,VehicleCapacity,VehicleMaxDuration,VehicleEfficiency,ClusterDemand,TaskCount,EstimatedRouteCost,ActualRouteCost,DiffRouteCost,AbsolutePercentageError
+R-B-b-ht,0,1,24000,39600,1.07,36050,94,29687.5,30123,-435.5,1.4457391362
+R-B-b-ht,1,2,24000,39600,0.8,41550,104,29353.7,28013.6,1340.1,4.7837478939
+R-B-b-ht,2,3,32000,39600,1,26000,141,25440.6,24238.5,1202.1,4.9594653134

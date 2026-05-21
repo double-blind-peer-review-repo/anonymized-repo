@@ -1,0 +1,4 @@
+vehid	capacity	max_duration	efficiency	depot_index
+1	24000	39600	1.07	463
+2	24000	39600	0.80	463
+3	32000	39600	1.00	463

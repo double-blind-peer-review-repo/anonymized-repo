@@ -1,0 +1,4 @@
+Instance,VehicleIndex,VehicleID,VehicleCapacity,VehicleMaxDuration,VehicleEfficiency,ClusterDemand,TaskCount,EstimatedRouteCost,ActualRouteCost,DiffRouteCost,AbsolutePercentageError
+G-15x15-4,0,1,430,2000,1,420,62,763.87,230.87,533,230.8658552432
+G-15x15-4,1,2,430,2000,1,425,66,701.68,243.43,458.25,188.2471346999
+G-15x15-4,2,3,430,2000,1,425,66,645.777,249.777,396,158.5414189457
